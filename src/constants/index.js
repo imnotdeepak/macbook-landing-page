@@ -1,10 +1,10 @@
 const navLinks = [
-  { label: "Home" },
-  { label: "Mac" },
-  { label: "Chip" },
-  { label: "Graphics" },
-  { label: "Features" },
-  { label: "Footer" },
+  { label: "Home", href: "#hero" },
+  { label: "Mac", href: "#product-viewer" },
+  { label: "Chip", href: "#showcase" },
+  { label: "Graphics", href: "#graphics" },
+  { label: "Features", href: "#features" },
+  { label: "Footer", href: "#footer" },
 ];
 
 const noChangeParts = [

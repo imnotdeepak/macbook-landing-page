@@ -2,7 +2,7 @@ const navLinks = [
   { label: "Home", href: "#hero" },
   { label: "Mac", href: "#product-viewer" },
   { label: "Chip", href: "#showcase" },
-  { label: "Graphics", href: "#graphics" },
+  { label: "Graphics", href: "#performance" },
   { label: "Features", href: "#features" },
   { label: "Footer", href: "#footer" },
 ];
